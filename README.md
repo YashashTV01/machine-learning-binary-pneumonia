@@ -44,5 +44,3 @@ This project explores different convolutional neural network (CNN) models for im
 After experimenting with three different models, it can be concluded that the third model (3.2PneumoniaMNISTbb) performs better compared to the first two. This conclusion is based on the increasing accuracy, decreasing loss, and achieving an accuracy score of 1.0 with a low loss of 0.04.
 
 These observations indicate that the third model is more effective in learning the patterns from the PneumoniaMNIST dataset, resulting in accurate predictions.
-
-Feel free to customize and expand this README based on additional insights or information you want to convey about your project.
